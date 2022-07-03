@@ -1,0 +1,3 @@
+[submodule "ai03-pcb-guide"]
+	path = ai03-pcb-guide
+	url = https://github.com/zoomqg/ai03-pcb-guide.git
